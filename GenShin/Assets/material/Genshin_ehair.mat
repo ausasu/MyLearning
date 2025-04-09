@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Genshin_ehair
+  m_Shader: {fileID: 4800000, guid: 409d42b5a09995a4781dc5ea3112fbbb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 03420b6a609aac54fa6517f00c6ab189, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: f2838e26be4b4774bb91619bebe3174b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ramp:
+        m_Texture: {fileID: 2800000, guid: 5c250dd486b0c0b44a45355ede80b8ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Bright: 0.99
+    - _BumpScale: 1
+    - _CutOff: 1
+    - _Dark: 0.55
+    - _DiffuseAlpha: 0
+    - _EdgeLight: 0.02
+    - _Fresnel: 1.7
+    - _GenShinShader: 1
+    - _Gloss: 1
+    - _GlossStrength: 1
+    - _Grey: 1.08
+    - _Outline: 0.2
+    - _RampIndex0: 1
+    - _RampIndex1: 4
+    - _RampIndex2: 3
+    - _RampIndex3: 5
+    - _RampIndex4: 1
+    - _dayAndNight: 1
+    m_Colors:
+    - _Color: {r: 1, g: 0, b: 0, a: 0}
+    - _Front: {r: 0, g: 0, b: 0, a: 1}
+    - _LeftDir: {r: 0, g: 0, b: 0, a: 1}
+    - _MetalMapColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor0: {r: 0.4339623, g: 0.27757213, b: 0.27757213, a: 0}
+    - _OutlineColor1: {r: 0.57487357, g: 0.9924528, b: 0.57487357, a: 0}
+    - _OutlineColor2: {r: 0, g: 0, b: 1, a: 0}
+    - _OutlineColor3: {r: 0.27311492, g: 0.27553278, b: 0.335849, a: 0}
+    - _OutlineColor4: {r: 0.21968667, g: 0.23685463, b: 0.4566037, a: 0}
+    - _SDFRampColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Up: {r: 0, g: 0, b: 0, a: 1}
+    - _glow: {r: 0.9242515, g: 0.9242515, b: 0.9242515, a: 1}
+  m_BuildTextureStacks: []

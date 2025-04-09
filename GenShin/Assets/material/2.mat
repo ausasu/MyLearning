@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 2
+  m_Shader: {fileID: 4800000, guid: e82a937ec74a0944f8548323ad8d6691, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _TOGGLEFRESNEL_ON
+  - _TOGGLEOUTLINE_ON
+  - _TOGGLERAMP_ON
+  - _TOGGLESPECULAR2_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampTex:
+        m_Texture: {fileID: 2800000, guid: d13c34b06f832564eb5b24a6820c1ff9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _cubemap:
+        m_Texture: {fileID: 8900000, guid: f5cfe6b2e76333846bf3d1ace3489c0b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AmbientScale: 0.5
+    - _BumpScale: 1
+    - _FresnelInt: 1.1
+    - _FresnelScale: 4.6
+    - _Gloss: 10
+    - _LightThreshold: -1
+    - _LightThreshold2: -1
+    - _LightThreshold3: 0.5
+    - _Outline: 1.6
+    - _Ramp: 0.95
+    - _RampGrey: 0.97
+    - _RampTexScale: 1.03
+    - _ReflectAmount: 0
+    - _RimInt: 0.1
+    - _RimPower: 0.1
+    - _Smooth: 0
+    - _Smooth2: 0
+    - _Smooth3: 0.5
+    - _Smooth4: 0
+    - _SpecularScale: 1
+    - _SpecularShadowMix: 0.17
+    - _SpecularThreshold: 0
+    - _ToggleFresnel: 1
+    - _ToggleOutline: 1
+    - _ToggleRamp: 1
+    - _ToggleRim: 0
+    - _ToggleSpecular: 0
+    - _ToggleSpecular2: 1
+    - _ToggleSpecularIf: 0
+    m_Colors:
+    - _Diffuse: {r: 0.9169811, g: 0.9169811, b: 0.9169811, a: 0.7}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 1, g: 1, b: 1, a: 0}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ShadowColor: {r: 0.7433963, g: 0.7433963, b: 0.7433963, a: 0.5}
+    - _ShadowColor2: {r: 0.2679245, g: 0.2679245, b: 0.2679245, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
